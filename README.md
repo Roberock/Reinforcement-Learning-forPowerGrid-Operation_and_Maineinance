@@ -1,7 +1,7 @@
 # Reinforcement-Learning-forPowerGrid-Operation_and_Maineinance
 
 
-See ref
+Refer to the following for further details
 
 ``` bibtex
 @article{ROCCHETTA2019291, 
