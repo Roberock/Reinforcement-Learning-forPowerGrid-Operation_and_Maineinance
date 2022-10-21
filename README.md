@@ -1,7 +1,7 @@
 # A reinforcement learning framework for optimal operation and maintenance of power grids
 
 
-# # Abstract: 
+### Abstract: 
 We develop a Reinforcement Learning framework for the optimal management of the operation and maintenance of power grids equipped with prognostics and health management capabilities. Reinforcement learning
 exploits the information about the health state of the grid components. Optimal actions are identified maximizing the expected profit, considering the aleatory uncertainties in the environment. To extend the applicability of the proposed approach to realistic problems with large and continuous state spaces, we use Artificial
 Neural Networks (ANN) tools to replace the tabular representation of the state-action value function. The nontabular Reinforcement Learning algorithm adopting an ANN ensemble is designed and tested on the scaled-down
