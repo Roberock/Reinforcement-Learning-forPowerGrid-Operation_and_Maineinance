@@ -10,7 +10,7 @@ comparison to the reference Bellman’s optimally. Results show good approximati
 ANN, and that the proposed framework outperforms expert-based solutions to grid operation and maintenance
 management.
 
-Refer to the following for further details
+See the following article for more details:
 
 ``` bibtex
 @article{ROCCHETTA2019291, 
