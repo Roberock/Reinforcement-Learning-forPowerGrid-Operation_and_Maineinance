@@ -21,3 +21,19 @@ issn = "0306-2619",
 doi = "https://doi.org/10.1016/j.apenergy.2019.03.027", 
 author = "R. Rocchetta and L. Bellani and M. Compare and E. Zio and E. Patelli", }
 ```
+
+
+```
+.
+├── MDP                         # Markov-Decision-Process folder 
+│   ├── OPF.m                   # Optimal power flow solver (DC-OPF) considering virtual generators to compute the Energy not supplied
+│   ├── Data4_BusNet.m          # THE DATA FOR THE Scaled-Down 4 nodes power grid with renewables
+│   ├── Q_BellmanOptimality.m   # Computes the Bellman's optimality for the grid use case (reference solution)
+```
+├── Tabular                     #  Tabluar Reinforcement Learning methods:  SARSA and Q-learning method applied to the power grid usecaase
+│   ├── ...                   
+```
+
+├── NonTabular                  # Non-Tabular RL methods: NeuralNetworks applied a Qtable regressors and DeepQ-learning method applied to the power grid usecaase
+│   ├── ...           
+```
